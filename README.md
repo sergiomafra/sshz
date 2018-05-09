@@ -1,10 +1,10 @@
-#sshz
+# sshz
 
 Connects to a server without the necessity of cleaning it.
 
 As I once heard from an old wise dude: "Life is too short to clean the urls by your own." FURLAN, Arthur (20XX)
 
-###Installation
+### Installation
 
 	$ cd ~/Downloads
 	$ git clone https://github.com/sergiomafra/sshz
