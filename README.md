@@ -8,11 +8,12 @@ As I once heard from an old wise dude: "Life is too short to clean the urls by y
 
 	$ cd ~/Downloads
 	$ git clone https://github.com/sergiomafra/sshz
+	$ cd sshz
 	$ sudo chmod 0500 sshz && sudo cp sshz /usr/local/bin/sshz
 	
 ### Usage
 
-Logs by default with root user
+Login by default with root user
 
 Normal:
 
